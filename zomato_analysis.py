@@ -118,6 +118,6 @@ df.to_csv("cleaned_zomato.csv", index=False)
 # ---------------- INSIGHTS ----------------
 print("\nINSIGHTS:")
 print("1. Most restaurants are concentrated in popular locations.")
-print("2. Online ordering has some influence on ratings.")
+print("2. Online orderinggit status has some influence on ratings.")
 print("3. Expensive restaurants are not always highly rated.")
 print("4. Certain cuisines dominate the market.")
